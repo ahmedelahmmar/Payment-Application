@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Git Repositories\Payment Application\Payment Application\Sources\main.c(31,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Git Repositories\Payment Application\Payment Application\Sources\main.c(31,9): message : consider using '%zd' in the format string
+  Payment Application.vcxproj -> C:\Git Repositories\Payment Application\x64\Debug\Payment Application.exe
