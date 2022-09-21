@@ -1,0 +1,96 @@
+******************* TRANSACTION *******************
+Transaction Date  : Wed Sep 21 00:02:20 2022
+Card Holder Name  : Ahmed Alaaeldin ibrahim
+PAN               : 2897457180313295000
+Expiry Date       : 01/25
+Request Limit     : $500.00
+Amount Requested  : $500.00
+Previous Balance  : $20000.00
+New Balance       : $19500.00
+Transaction State : Transaction Approved
+***************************************************
+
+******************* TRANSACTION *******************
+Transaction Date  : Wed Sep 21 00:17:23 2022
+Card Holder Name  : Exceeding Max Amount
+PAN               : 6245833843616954000
+Expiry Date       : 06/25
+Request Limit     : $500.00
+Amount Requested  : $1000.00
+Previous Balance  : $-1.00
+New Balance       : $83717.00
+Transaction State : Limit Exceeded, Transaction Declined.
+***************************************************
+
+******************* TRANSACTION *******************
+Transaction Date  : Wed Sep 21 00:18:33 2022
+Card Holder Name  : Exceeding Max Amount
+PAN               : 6245833843616954000
+Expiry Date       : 07/25
+Request Limit     : $1000.00
+Amount Requested  : $2500.00
+Previous Balance  : $83717.00
+New Balance       : $83717.00
+Transaction State : Limit Exceeded, Transaction Declined.
+***************************************************
+
+******************* TRANSACTION *******************
+Transaction Date  : Wed Sep 21 00:19:28 2022
+Card Holder Name  : Insufficient Fund Test
+PAN               : 6245833843616954000
+Expiry Date       : 06/26
+Request Limit     : $100000.00
+Amount Requested  : $95000.00
+Previous Balance  : $83717.00
+New Balance       : $83717.00
+Transaction State : Insufficient Funds, Transaction Declined.
+***************************************************
+
+******************* TRANSACTION *******************
+Transaction Date  : Wed Sep 21 14:42:33 2022
+Card Holder Name  : Ahmed Alaaeldin Ibrahim
+PAN               : 7915539079836742000
+Expiry Date       : 03/24
+Request Limit     : $1000.00
+Amount Requested  : $899.00
+Transaction State : Transaction Approved.
+
+Previous Balance  : $52899.00
+New Balance       : $52000.00
+***************************************************
+
+******************* TRANSACTION *******************
+Transaction Date  : Wed Sep 21 14:44:35 2022
+Card Holder Name  : Exceed Request amount
+PAN               : 7915539079836742000
+Expiry Date       : 05/25
+Request Limit     : $500.00
+Amount Requested  : $750.00
+Transaction State : Transaction Declined.
+Explanation       : Request limit Exceeded.
+***************************************************
+
+******************* TRANSACTION *******************
+Transaction Date  : Wed Sep 21 14:48:41 2022
+Card Holder Name  : Exceed Request Limit
+PAN               : 7915539079836742000
+Expiry Date       : 04/24
+Request Limit     : $250.00
+Amount Requested  : $500.00
+Transaction State : Transaction Declined.
+Explanation       : Request limit Exceeded.
+***************************************************
+
+******************* TRANSACTION *******************
+Transaction Date  : Wed Sep 21 14:50:07 2022
+Card Holder Name  : Insufficient Fund Test
+PAN               : 6199028477853149000
+Expiry Date       : 01/26
+Request Limit     : $50000.00
+Amount Requested  : $32500.00
+Transaction State : Transaction Declined.
+Explanation       : Insufficient Funds.
+
+Balance           : $20296.00
+***************************************************
+
